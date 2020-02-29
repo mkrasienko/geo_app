@@ -1,4 +1,4 @@
-#Geo App
+<h1>Geo App<h1>
 
 An app that calculates a geographical center for given points and displays them on Google Maps.
 
